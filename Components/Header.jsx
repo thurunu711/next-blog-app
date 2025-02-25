@@ -1,6 +1,6 @@
 "use client";// use client side javascript
 
-import { assets } from '@/Assets/assets'
+import { assets } from '@/assets/assets'
 import Image from 'next/image'
 import React from 'react'
 
