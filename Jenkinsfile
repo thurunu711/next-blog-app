@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        NODE_VERSION = '18'  // Adjust based on your Node.js version
+        NODE_VERSION = '18'
     }
 
     tools {
